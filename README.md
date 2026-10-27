@@ -30,3 +30,26 @@ The final number of clusters and evaluation scores will be added after verifying
 
 - GitHub: https://github.com/anjani9091
 - Project: https://github.com/anjani9091/Credit-Card-Customer-Segmentation
+
+## Project Visualizations
+
+### 1. Customer Feature Distributions
+![Customer Feature Distributions](01_customer_feature_distributions.png)
+
+### 2. Elbow Method
+![Elbow Method](02_elbow_method.png)
+
+### 3. Customer Clusters — PCA 2D
+![Customer Clusters PCA 2D](03_customer_clusters_pca_2d.png)
+
+### 4. Customer Clusters — PCA 3D
+![Customer Clusters PCA 3D](04_customer_clusters_pca_3d.png)
+
+### 5. Average Customer Behavior by Cluster
+![Average Customer Behavior by Cluster](05_average_customer_behavior_by_cluster.png)
+
+### 6. Customer Count by Cluster
+![Customer Count by Cluster](06_customer_count_by_cluster.png)
+
+### 7. Customer Cluster Profile
+![Customer Cluster Profile](07_customer_cluster_profile.png)
